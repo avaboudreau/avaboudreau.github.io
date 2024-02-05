@@ -1,0 +1,40 @@
+h1 {
+    color:dodgerblue;
+    text-align: right;
+    margin-right: 125px;
+    margin-top: 50px;
+
+}
+body {
+    background-image: url(images/myBackground2.jpg);
+}
+p {
+    color:navy;
+    text-align: left;
+    margin-right: 10px;
+    margin-left: 360px;
+    font-size: larger;
+
+}
+#javah {
+    margin-right: 57px;
+}
+#javap {
+    margin-bottom:60px
+}
+#about {
+    margin-right: 100 px;
+    margin-top: 50px;
+}
+#gull {
+
+    margin-left: 400px;
+    width: 100px;
+}
+#body {
+    width: 800px;
+}
+#mathpic {
+
+    
+}

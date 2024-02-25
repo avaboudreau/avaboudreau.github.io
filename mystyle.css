@@ -9,6 +9,10 @@ h1 {
 body {
     background-image: url(images/myBackground2.jpg);
 }
+#jsbg {
+    background-color: lightblue;
+}
+
 p {
     color:navy;
     text-align: left;

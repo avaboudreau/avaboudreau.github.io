@@ -2,7 +2,7 @@
 h1 {
     color:rgb(11, 150, 124);
     text-align: right;
-    margin-right: 125px;
+    margin-right: 825px;
     margin-top: 50px;
 
 }
@@ -16,28 +16,30 @@ body {
 p {
     color:rgb(6, 99, 37);
     text-align: left;
-    margin-right: 10px;
-    margin-left: 360px;
+    margin-right: 400px;
+    margin-left: 30px;
     font-size: larger;
 h2{
     width:150px;
+    margin-right: 700px;
 
 }
 }
 #javah {
-    margin-right: 57px;
+    margin-top: 10px;
+    margin-right: 800px;
 }
 #javap {
     margin-bottom:60px
 }
 #about {
-    margin-right: 100 px;
-    margin-top: 50px;
+    margin-right: 800 px;
+    margin-top: 20px;
 }
 #gull {
 
-    margin-left: 400px;
-    width: 100px;
+    margin-left: 100px;
+    width: 120px;
 }
 #body {
     width: 800px;
